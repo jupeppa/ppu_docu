@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs@v0.4.0 
 
 # Загальні налаштування
-title: Експлуатаційна Документація ППУ
+title: Документація ППУ-М
 description: Інструкції з обслуговування та експлуатації.
 lang: uk
 color_scheme: dark
