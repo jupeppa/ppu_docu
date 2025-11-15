@@ -1,0 +1,10 @@
+remote_theme: just-the-docs/just-the-docs@v0.4.0 
+
+# Загальні налаштування
+title: Експлуатаційна Документація ППУ
+description: Інструкції з обслуговування та експлуатації.
+
+# Налаштування навігації
+nav_external_links:
+  - title: GitHub Repo
+    url: https://github.com/jupeppa/ppu_docu
